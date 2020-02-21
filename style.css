@@ -1,0 +1,103 @@
+body{
+    margin: 0;
+    font-family: 'arial';
+}
+h1{
+    font-size: 50px;
+
+}
+h2{
+    
+    font-size: 40px;
+}
+p{
+    color: black;
+}
+.name-Bio{
+    color: deeppink;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 90%;
+}
+.top-banner{
+    background-image: url("personal-website/header-bg.png");
+background-repeat: no-repeat;
+}
+
+section{
+    height: 500px;
+    padding-bottom: 100px;
+}
+a:hover{
+    font-size: larger;
+    color: black;
+}
+
+.effects:hover{
+    color: lightseagreen;
+}   
+
+.link-button{
+
+    text-decoration: none;
+    background-image: linear-gradient(45deg, tomato, orange);
+    padding: 10px 20px;
+    border-radius: 8px;
+    color:white;
+    font-weight: bold;
+    
+}
+.dream-area{
+    background-image: url("personal-website/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+
+.latest-work-area{
+    text-align: center;
+    background-image: url("personal-website/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-position: left; 
+    padding: 30px;
+
+}
+
+.img-responsive{
+    width: 30%;
+    margin: 1.5%;
+    float: left;
+}
+.comment{
+    text-align: center;
+
+}
+#position{
+    color: darkcyan;
+}
+
+
+.note-box{
+    text-align: center;
+    display: inline-block;
+    border-radius: 20px;
+    height: 100px;
+    width: 400px;
+    background-image: linear-gradient(45deg, orange, brown);    
+} 
+
+.foot{
+    text-align: center;
+}
+
+#copy{
+    color: gray;
+}
+
+    
